@@ -35,7 +35,6 @@ main {
   border-radius: 5px;
   
   display: grid;
-  /* text-align: center; */
   place-items: center;
 }
 h1{
